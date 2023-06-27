@@ -1,2 +1,3 @@
-# CHT2520-2223
-for this web programming module I will be creating a site that allows users to vote for their favourite player at my rugby club and display their stats. All player Info and stats will be stored in a database and be updated as the season goes on.
+# CHT2520-2223 Example of a CRUD application
+
+For this project, I created a simple web application that used Laravel and the Apache web server. The application was a product logging site that users could create, read, update, and delete. The main feature is a database that users can access and then use.   
