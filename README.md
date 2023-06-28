@@ -15,3 +15,6 @@ For this project, I created a simple web application that used Laravel and the A
 
 
 <img width="1356" alt="Screenshot 2023-06-27 at 21 39 12" src="https://github.com/Ryan122012/CHT2520-2223/assets/116960359/4a5f2538-a251-45ff-a56c-fb7c19528454">
+
+
+To run this application I had the files loaded on visual studio code then proceeded to open it via apache web server and localhost when testing.
